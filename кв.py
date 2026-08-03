@@ -14,4 +14,4 @@ if D > 0:
 elif D == 0:
     print((-b) / (2 * a))
 else:
-    print("Нет корней")
+    print("No solutions")
